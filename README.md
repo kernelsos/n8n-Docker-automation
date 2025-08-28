@@ -91,7 +91,8 @@ This opens n8n locally on your computer.
 
 
 
-
+Reference YouTube tutorial - https://www.youtube.com/watch?v=Myjo1amUZ08
+How to connect Email to n8n - https://youtu.be/pWGXlZBGu4k?si=LfH6jnQt-bIBgvh7
 
 
 
