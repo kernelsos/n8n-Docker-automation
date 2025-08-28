@@ -1,6 +1,6 @@
 # n8n-Docker-automation
 
-1. The first thing you need is a Docker Compose file (docker-compose.yml)
+1. You first need a Docker Compose file (docker-compose.yml) and Docker Desktop.
 
 # Top-level
 
@@ -53,3 +53,30 @@ When you run docker-compose up -d:
 Postgres database container launches first.
 n8n container launches, connects to Postgres, and stores workflows/credentials.
 Data and configs are preserved across restarts using volumes.
+
+
+# Second thing you need is ollama. 
+Download gpt-oss:20b model or any other open source model. 
+
+Open a terminal in the folder in which your yml is located. And run this command.
+'''
+docker compose up
+'''
+This command tells Docker to start up the services within the Docker Compose file.
+
+Open your Docker Desktop application, and you will notice a container named n8n-docker running. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
