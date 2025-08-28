@@ -65,6 +65,8 @@ docker compose up
 This command tells Docker to start up the services within the Docker Compose file.
 
 Open your Docker Desktop application, and you will notice a container named n8n-docker running. 
+Click on the n8n-docker container. 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f125fb7-b45b-4006-8de9-e02361af1160" />
 
 
 
