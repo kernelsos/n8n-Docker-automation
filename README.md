@@ -71,7 +71,9 @@ Click on the link for n8n localhost - http://localhost:5678⁠
 This opens n8n locally on your computer.
 
 
-<img width="1080" height="912" alt="Screenshot 2025-08-28 193548" src="https://github.com/user-attachments/assets/c2c6aa89-da1d-4b51-9200-d5d45ba382b1" />
+
+<img width="1867" height="992" alt="image" src="https://github.com/user-attachments/assets/e92b2502-6a95-4726-bf04-c82d492543ce" />
+
 
 
 
