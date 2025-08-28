@@ -66,13 +66,25 @@ This command tells Docker to start up the services within the Docker Compose fil
 
 Open your Docker Desktop application, and you will notice a container named n8n-docker running. 
 Click on the n8n-docker container. 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f125fb7-b45b-4006-8de9-e02361af1160" />
+Click on the link for n8n localhost - http://localhost:5678⁠
+
+This opens n8n locally on your computer.
+
+
+<img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/2f125fb7-b45b-4006-8de9-e02361af1160" />
 
 
 
+ # Now Login/signup into n8n and add create a workflow.
+ Add an AI agent node. If you have enough VRAM to run larger models, you can download and run gpt-oss:20b or gpt-oss:120b parameter model.
+
+ <img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/2460375a-3721-4f92-83d4-ac54f1a8a521" />
 
 
+# Then you can add tools like Gmail and Google Sheets using the Google Cloud Console.
 
+
+<img width="1797" height="677" alt="image" src="https://github.com/user-attachments/assets/3e410cb5-d03f-4162-8483-031f8a722086" />
 
 
 
