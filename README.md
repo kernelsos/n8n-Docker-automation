@@ -1,6 +1,6 @@
 # n8n-Docker-automation
 
-1. You first need a Docker Compose file (docker-compose.yml) and Docker Desktop.
+1. You first need a Docker Compose file (docker-compose.yml) and Docker Desktop. 
 
 # Top-level
 
@@ -98,6 +98,6 @@ Reference YouTube tutorial - https://www.youtube.com/watch?v=Myjo1amUZ08
 How to connect Email to n8n - https://youtu.be/pWGXlZBGu4k?si=LfH6jnQt-bIBgvh7
 
 
-
+#Advantages - It's cheaper, Private, and better tuned for specific workflows.
 
 
